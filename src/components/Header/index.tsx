@@ -20,11 +20,11 @@ export const Header: React.FC = () => {
           </li>
           <li>
             <a
-              href="https://blog-opensourcecourses.notion.site/Open-source-Courses-1e3bde73c5eb416e903b21172f37cf90"
+              href="https://docs-opensourcecourses.notion.site/Documenta-o-Open-source-Courses-651ffb1c36054278be8f2a0b2bc17223"
               target="_blank"
               rel="noreferrer"
             >
-              🏗️ Plataforma
+              Docs
             </a>
           </li>
           <li>
